@@ -1,0 +1,24 @@
+{
+  "name": "gitcrypt",
+  "version": "1.0.0",
+  "description": "test git crypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbarbier/gitcrypt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbarbier/gitcrypt/issues"
+  },
+  "homepage": "https://github.com/cbarbier/gitcrypt#readme",
+  "dependencies": {
+    "node-yaml-config": "0.0.6"
+  }
+}
