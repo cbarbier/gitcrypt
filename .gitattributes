@@ -1,2 +1,3 @@
 config.js filter=git-crypt diff=git-crypt
+dir/secret.txt filter=git-crypt diff=git-crypt
 .gitattributes !filter !diff
